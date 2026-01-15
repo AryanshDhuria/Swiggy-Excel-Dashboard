@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 This is an interactive **Excel dashboard** created to analyze Swiggy sales data.  
 It highlights key business metrics such as total sales, order patterns, customer ratings, category contribution, and city-level performance — helping understand actionable trends in food delivery operations.
-![Dashboard Preview](Images/Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 
 ## 🎯 Project Objectives
