@@ -4,9 +4,7 @@
 This is an interactive **Excel dashboard** created to analyze Swiggy sales data.  
 It highlights key business metrics such as total sales, order patterns, customer ratings, category contribution, and city-level performance — helping understand actionable trends in food delivery operations.
 
-![Dashboard Preview](https://raw.githubusercontent.com/AryanshDhuria/Swiggy-Excel-Dashboard/main/images/Dashboard.png)
-
----
+ ![Image Alt](https://github.com/AryanshDhuria/Swiggy-Excel-Dashboard/blob/main/Dashboard.png)
 
 ## 🎯 Project Objectives
 - Analyze overall sales performance and order distribution
