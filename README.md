@@ -2,7 +2,7 @@
 Interactive Excel Dashboard Analyzing Swiggy Sales Data
 ## Swiggy Sales Dashboard (Excel)
 
-![Dashboard Preview](dashboard.png)
+ ![Image Alt](https://github.com/AryanshDhuria/Swiggy-Excel-Dashboard/blob/main/Dashboard.png)
 
 ### Overview
 This project presents an interactive Excel dashboard built to analyze Swiggy sales data across time, food categories, cities, and states.
